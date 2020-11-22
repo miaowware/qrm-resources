@@ -7,6 +7,8 @@ The version format should be `YYYY.MM.seq`. For example: the *third* version rel
 
 
 ## [Unreleased]
+### Added
+- Philippine (`ph`) band chart.
 
 
 ## [2020.11.1] - 2020-11-01
