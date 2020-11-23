@@ -1,11 +1,11 @@
 {
-    "last_updated": "2020-10-30",
+    "last_updated": "2020-11-23",
     "resources": {
         "bandcharts": {
             "v1": [
                 {
                     "filename": "resources/bandcharts.1.json",
-                    "hash": "d1f57d490a8f81138841676235ef22b6"
+                    "hash": "14cd7c01fa9e7fecca8e87d4eea21bbb"
                 }
             ]
         },
@@ -13,7 +13,7 @@
             "v1": [
                 {
                     "filename": "resources/imgs.1.json",
-                    "hash": "b9138e4c548d5c6579243d624d751432"
+                    "hash": "e44935fa8ce8c120524f126110bfd584"
                 }
             ]
         },
@@ -21,7 +21,7 @@
             "v1": [
                 {
                     "filename": "resources/maps.1.json",
-                    "hash": "8aaf3c63fb248a7b40778552829ea629"
+                    "hash": "32601ee87834bd28898a3fe92b065319"
                 }
             ]
         },
