@@ -12,12 +12,16 @@
 - `?funetics` wordlist
 
 ## Metadata formats documentation
-- [Maps & Band Charts](docs/maps-charts-format.md)
+- [Maps & Band Charts](docs/maps-charts-format/)
 
 ## Image processing
 For images like bandplans and maps, first resize the image to a reasonable size, then run `pngquant --quality 30-40` on the images.
 
 Do not apply that to non-flat images like actual pictures.
+
+## Changelog
+
+[Available here](/changelog/)
 
 ## Copyright
 - This work by [MiaowWare and Contributors](https://www.miaow.io) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)

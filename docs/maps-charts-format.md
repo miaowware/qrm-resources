@@ -1,4 +1,9 @@
-# File metadata format
+---
+permalink: /docs/maps-charts-format/
+title: Maps and Charts Metadata Format
+author: "0x5c"
+---
+# Maps and Charts Metadata Format
 
 Used for grouping info such as name, description, source, and such.
 

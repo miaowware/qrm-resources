@@ -1,3 +1,8 @@
+---
+permalink: /changelog/
+author: miaowware
+---
+
 # Changelog
 All notable changes to this project will be documented in this file.
 
