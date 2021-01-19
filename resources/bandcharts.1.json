@@ -9,5 +9,6 @@
     "mx": ["resources/bandcharts/mx.png", "Mexico", "Radio allocations in Mexico", "Full radio allocations chart for all services. No information specific to amateur radio is shown.", "Secretaría de Comunicaciones y Transportes (SCT) / Instituto Federal de Telecomunicaciones (IFT)", "🇲🇽"],
     "nl": ["resources/bandcharts/nl.png", "Netherlands", "Amateur radio bands in the Netherlands", "*This version of this bandplan is no longer hosted on VERNON's website and it's accuracy cannot be guaranteed.*", "[VERNON Global Band Plan van de Telecom Agency, Ministerie van Economische Zaken en Klimaat](https://www.veron.nl/downloads/brochures/)", "🇳🇱"],
     "ph": ["resources/bandcharts/ph.png", "The Philippines", "Amateur radio bands in the Philippines", "", "[DW1ZCF [PDF]](https://www.para.org.ph/docs/DU-Band-Plan-DW1ZCF.pdf)", "🇵🇭"],
+    "ru": ["resources/bandcharts/ru.png", "Russia", "Amateur radio bands in Russia (HF Only)", "", "[Amateur Operator's Union of Russia](https://srr.ru/radiooperatoram/radiochastoty/)", "🇷🇺"],
     "us": ["resources/bandcharts/us.png", "USA", "Amateur radio bands in the USA", "", "*[ARRL Frequency Chart](https://www.arrl.org/shop/ARRL-Frequency-Chart-11-17/)*  [[PDF]](http://www.arrl.org/files/file/Regulatory/Band%20Chart/Band%20Chart%20-%2011X17%20Color.pdf)", "🇺🇸"]
 }
