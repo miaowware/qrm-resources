@@ -14,6 +14,9 @@
 ## Metadata formats documentation
 - [Maps & Band Charts](docs/maps-charts-format/)
 
+## Data
+You can access the data directly as JSON: [index.json](resources/index.json)
+
 ## Image processing
 For images like bandplans and maps, first resize the image to a reasonable size, then run `pngquant --quality 30-40` on the images.
 

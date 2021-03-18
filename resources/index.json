@@ -4,7 +4,7 @@
         "bandcharts": {
             "v1": [
                 {
-                    "filename": "resources/bandcharts.1.json",
+                    "filename": "bandcharts.1.json",
                     "hash": "3b92a8815fd9932b8b5a691de73458dc"
                 }
             ]
@@ -12,7 +12,7 @@
         "img": {
             "v1": [
                 {
-                    "filename": "resources/imgs.1.json",
+                    "filename": "imgs.1.json",
                     "hash": "e44935fa8ce8c120524f126110bfd584"
                 }
             ]
@@ -20,7 +20,7 @@
         "maps": {
             "v1": [
                 {
-                    "filename": "resources/maps.1.json",
+                    "filename": "maps.1.json",
                     "hash": "32601ee87834bd28898a3fe92b065319"
                 }
             ]
@@ -28,7 +28,7 @@
         "morse": {
             "v1": [
                 {
-                    "filename": "resources/morse.1.json",
+                    "filename": "morse.1.json",
                     "hash": "1b755d9fc8f2140c08ef625286e95fcd"
                 }
             ]
@@ -36,7 +36,7 @@
         "phonetics": {
             "v1": [
                 {
-                    "filename": "resources/phonetics.1.json",
+                    "filename": "phonetics.1.json",
                     "hash": "ebd8ee4f1b89dafbff6fe115078cf176"
                 }
             ]
@@ -44,7 +44,7 @@
         "qcodes": {
             "v1": [
                 {
-                    "filename": "resources/qcodes.1.json",
+                    "filename": "qcodes.1.json",
                     "hash": "f425f427bae77f9165b60c7a6c50e451"
                 }
             ]
@@ -52,7 +52,7 @@
         "funetics": {
             "v1": [
                 {
-                    "filename": "resources/words.1.txt",
+                    "filename": "words.1.txt",
                     "hash": "5da8ab1a3efcd4eca102ac0499b99c7f"
                 }
             ]
