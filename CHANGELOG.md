@@ -12,7 +12,8 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 
 
 ## [Unreleased]
-
+### Added
+- LaTeX template for `?tex` command.
 
 ## [2021.3.1] - 2021-03-18
 ### Added
