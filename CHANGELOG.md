@@ -12,8 +12,12 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 
 
 ## [Unreleased]
+
+
+## [2021.3.2]
 ### Added
 - LaTeX template for `?tex` command.
+
 
 ## [2021.3.1] - 2021-03-18
 ### Added
@@ -45,7 +49,8 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 - MD5 hashes for all files in the index.
 
 
-[Unreleased]: https://github.com/miaowware/qrm-resources/compare/v2021.3.1...HEAD
+[Unreleased]: https://github.com/miaowware/qrm-resources/compare/v2021.3.2...HEAD
+[2021.3.2]: https://github.com/miaowware/qrm-resources/releases/tag/v2021.3.2
 [2021.3.1]: https://github.com/miaowware/qrm-resources/releases/tag/v2021.3.1
 [2020.11.2]: https://github.com/miaowware/qrm-resources/releases/tag/v2020.11.2
 [2020.11.1]: https://github.com/miaowware/qrm-resources/releases/tag/v2020.11.1
