@@ -1,5 +1,5 @@
 {
-    "last_updated": "2021-03-18T05:06:24.574968Z",
+    "last_updated": "2021-03-20T01:05:29.301237Z",
     "resources": {
         "bandcharts": {
             "v1": [
@@ -54,6 +54,14 @@
                 {
                     "filename": "words.1.txt",
                     "hash": "5da8ab1a3efcd4eca102ac0499b99c7f"
+                }
+            ]
+        },
+        "latex_template": {
+            "v1": [
+                {
+                    "filename": "template.1.tex",
+                    "hash": "7a450d4934d557ad38c9528294f50a2c"
                 }
             ]
         }
