@@ -1,0 +1,44 @@
+\documentclass{article}
+
+% common symbols
+\usepackage{amsfonts,amsmath,amssymb,amsthm} 
+
+% typography / page layout
+\usepackage{pagecolor}
+\usepackage{microtype}
+\usepackage{pbox}
+
+% graphics
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{decorations,arrows,shapes}
+
+% links
+% this must come last
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=blue,      
+    urlcolor=blue,
+}
+
+% text style for very tiny invisible text
+% (so as to trick the rendering service into providing more margin)
+\definecolor{almostWhite}{HTML}{fffffe}
+\newcommand\smol[1]{{\color{almostWhite}\fontsize{1pt}{1pt} #1}}
+\newcommand{\qrmmargin}{1mm}
+
+\begin{document}
+\pagecolor{white} % otherwise it'll come back transparent
+
+\smol{.}\vspace{\qrmmargin}
+
+\noindent\begin{minipage}[t][\qrmmargin][t]{\qrmmargin}\smol{.}\end{minipage}
+#CONTENT#
+\noindent\begin{minipage}[t][\qrmmargin][t]{\qrmmargin}\smol{.}\end{minipage}
+
+\vspace{\qrmmargin}\smol{.}
+
+\pagenumbering{gobble}
+\end{document}
