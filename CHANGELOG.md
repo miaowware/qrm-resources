@@ -14,6 +14,11 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 ## [Unreleased]
 
 
+## [2021.10.1] - 2021-10-05
+### Added
+- New version of Philippines band chart.
+
+
 ## [2021.5.1] - 2021-05-06
 ### Added
 - Disclaimer to Philippines band chart.
@@ -54,7 +59,9 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 - MD5 hashes for all files in the index.
 
 
-[Unreleased]: https://github.com/miaowware/qrm-resources/compare/v2021.5.1...HEAD
+[Unreleased]: https://github.com/miaowware/qrm-resources/compare/v2021.10.1...HEAD
+[2021.10.1]: https://github.com/miaowware/qrm-resources/releases/tag/v2021.10.1
+[2021.5.1]: https://github.com/miaowware/qrm-resources/releases/tag/v2021.5.1
 [2021.3.2]: https://github.com/miaowware/qrm-resources/releases/tag/v2021.5.1
 [2021.3.2]: https://github.com/miaowware/qrm-resources/releases/tag/v2021.3.2
 [2021.3.1]: https://github.com/miaowware/qrm-resources/releases/tag/v2021.3.1
