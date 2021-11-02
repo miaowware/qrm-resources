@@ -14,6 +14,11 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 ## [Unreleased]
 
 
+## [2021.11.1] - 2021-11-01
+### Added
+- Circuitikz package to template.1.tex.
+
+
 ## [2021.10.1] - 2021-10-05
 ### Added
 - New version of Philippines band chart.
