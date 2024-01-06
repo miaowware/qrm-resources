@@ -1,11 +1,11 @@
 {
-    "last_updated": "2024-01-06T03:16:52.142491Z",
+    "last_updated": "2024-01-06T08:42:15.710350Z",
     "resources": {
         "bandcharts": {
             "v1": [
                 {
                     "filename": "bandcharts.1.json",
-                    "hash": "e094d69474928216f55283c44fec9904"
+                    "hash": "0b5b04d9fbe71a951af1241b8e5908b2"
                 }
             ]
         },
@@ -21,7 +21,7 @@
             "v1": [
                 {
                     "filename": "maps.1.json",
-                    "hash": "00818832faafed734d7a1eede6858a72"
+                    "hash": "ebdf4aac6a90f23f5a12bc1db57065bc"
                 }
             ]
         },
