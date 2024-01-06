@@ -12,6 +12,8 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 
 
 ## [Unreleased]
+### Changed
+- Updated Canada band chart.
 
 
 ## [2021.12.1] - 2021-12-22
