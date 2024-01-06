@@ -1,4 +1,5 @@
 {
+    "au": ["maps/au.png", "Australia's Prefixes", "Australian Callsign Prefixes and Locations", "", "[VK3/VK1TTY](https://gitlab.com/m0ze1r/callsign-rules/-/blob/main/Au-Callzones.png)", "🇦🇺"],
     "ca": ["maps/ca.png", "Canada's Prefixes", "Map of the prefix regions in Canada", "", "[Denelson83 (Wikimedia Commons)](https://commons.wikimedia.org/wiki/File:Amateur_radio_prefixes_in_Canada.svg)", "🇨🇦"],
     "cn": ["maps/cn.png", "China's Prefixes", "Map of prefix regions in China", "", "CRAC", "🇨🇳"],
     "us": ["maps/us.png", "USA's Prefixes", "Map of prefix regions in the USA", "", "*[ARRL WAS Map](https://www.arrl.org/was-forms)*  [[PDF]](http://www.arrl.org/files/file/Awards%20Application%20Forms/WASmap_Color.pdf)", "🇺🇸"],

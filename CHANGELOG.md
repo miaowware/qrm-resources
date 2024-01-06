@@ -12,6 +12,8 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 
 
 ## [Unreleased]
+### Added
+- Map of Australian callsign prefixes.
 ### Changed
 - Updated Canada band chart.
 
