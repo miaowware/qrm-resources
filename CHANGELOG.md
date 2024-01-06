@@ -12,6 +12,9 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 
 
 ## [Unreleased]
+
+
+## [2024.1.1] - 2024-01-06
 ### Added
 - Map of Australian callsign prefixes.
 ### Changed
@@ -75,7 +78,8 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 - MD5 hashes for all files in the index.
 
 
-[Unreleased]: https://github.com/miaowware/qrm-resources/compare/v2021.12.1...HEAD
+[Unreleased]: https://github.com/miaowware/qrm-resources/compare/v2024.1.1...HEAD
+[2024.1.1]: https://github.com/miaowware/qrm-resources/releases/tag/v2024.1.1
 [2021.12.1]: https://github.com/miaowware/qrm-resources/releases/tag/v2021.12.1
 [2021.11.1]: https://github.com/miaowware/qrm-resources/releases/tag/v2021.11.1
 [2021.10.1]: https://github.com/miaowware/qrm-resources/releases/tag/v2021.10.1
