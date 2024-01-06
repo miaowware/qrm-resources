@@ -7,5 +7,5 @@
     "ituz": ["maps/itu-zones.png", "ITU Zones", "ITU Zones", "", "[EI8IC](https://www.mapability.com/ei8ic/maps/maps.php)", "🇺🇳"],
     "arrl": ["maps/arrl.png", "ARRL Sections", "ARRL Sections", "", "[EI8IC](https://www.mapability.com/ei8ic/maps/maps.php)", "🇺🇸"],
     "cq": ["maps/cq-zones.png", "CQ Zones", "CQ Zones", "These are used for the CQWW contest.", "[EI8IC](https://www.mapability.com/ei8ic/maps/maps.php)", "🌐"],
-    "rac": ["maps/arrl-rac.png", "RAC Sections", "RAC Sections", "", "[EI8IC](https://www.mapability.com/ei8ic/maps/maps.php)", "🇨🇦"]
+    "rac": ["maps/arrl-rac-2023.png", "RAC Sections", "RAC Sections", "", "[EI8IC](https://www.mapability.com/ei8ic/maps/maps.php)", "🇨🇦"]
 }
