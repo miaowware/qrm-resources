@@ -5,7 +5,7 @@
     "us": ["maps/us.png", "USA's Prefixes", "Map of prefix regions in the USA", "", "*[ARRL WAS Map](https://www.arrl.org/was-forms)*  [[PDF]](http://www.arrl.org/files/file/Awards%20Application%20Forms/WASmap_Color.pdf)", "🇺🇸"],
     "itur": ["maps/itu-regions.png", "ITU Regions", "ITU Regions", "These are also used by the IARU for their regions.", "[EI8IC](https://www.mapability.com/ei8ic/maps/maps.php)", "🇺🇳"],
     "ituz": ["maps/itu-zones.png", "ITU Zones", "ITU Zones", "", "[EI8IC](https://www.mapability.com/ei8ic/maps/maps.php)", "🇺🇳"],
-    "arrl": ["maps/arrl-rac.png", "ARRL Sections", "ARRL Sections", "", "[EI8IC](https://www.mapability.com/ei8ic/maps/maps.php)", "🇺🇸"],
+    "arrl": ["maps/arrl.png", "ARRL Sections", "ARRL Sections", "", "[EI8IC](https://www.mapability.com/ei8ic/maps/maps.php)", "🇺🇸"],
     "cq": ["maps/cq-zones.png", "CQ Zones", "CQ Zones", "These are used for the CQWW contest.", "[EI8IC](https://www.mapability.com/ei8ic/maps/maps.php)", "🌐"],
     "rac": ["maps/arrl-rac.png", "RAC Sections", "RAC Sections", "", "[EI8IC](https://www.mapability.com/ei8ic/maps/maps.php)", "🇨🇦"]
 }

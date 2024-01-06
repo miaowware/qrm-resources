@@ -16,6 +16,8 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 - Map of Australian callsign prefixes.
 ### Changed
 - Updated Canada band chart.
+- Updated RAC section map.
+- Updated ARRL section map.
 
 
 ## [2021.12.1] - 2021-12-22
