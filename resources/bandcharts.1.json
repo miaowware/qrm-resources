@@ -10,5 +10,7 @@
     "nl": ["bandcharts/nl.png", "Netherlands", "Amateur radio bands in the Netherlands", "*This version of this bandplan is no longer hosted on VERNON's website and it's accuracy cannot be guaranteed.*", "[VERNON Global Band Plan van de Telecom Agency, Ministerie van Economische Zaken en Klimaat](https://www.veron.nl/downloads/brochures/)", "🇳🇱"],
     "ph": ["bandcharts/ph.png", "The Philippines", "Amateur radio bands in the Philippines", "", "DW5CD [[PDF]](https://github.com/miaowware/qrm-resources/files/7668695/Philippine.Amateur.Band.Plan.2021.pdf)", "🇵🇭"],
     "ru": ["bandcharts/ru.png", "Russia", "Amateur radio bands in Russia (HF Only)", "", "[Amateur Operator's Union of Russia](https://srr.ru/radiooperatoram/radiochastoty/)", "🇷🇺"],
+    "uk_hf": ["bandcharts/uk_hf.png", "United Kingdom (HF)", "Amateur radio bands in the UK (HF Only)", "", "[Online Amateur Radio Community](https://wiki.oarc.uk/_media/reference:uk_ham_bands_chart_-_v0003_-_2_pager.pdf)", "🇬🇧"],
+    "uk_vhf": ["bandcharts/uk_vhf.png", "United Kingdom (VHF)", "Amateur radio bands in the UK (VHF Only)", "", "[Online Amateur Radio Community](https://wiki.oarc.uk/_media/reference:uk_ham_bands_chart_-_v0003_-_2_pager.pdf)", "🇬🇧"],
     "us": ["bandcharts/us.png", "USA", "Amateur radio bands in the USA", "", "*[ARRL Frequency Chart](https://www.arrl.org/shop/ARRL-Frequency-Chart-11-17/)*  [[PDF]](http://www.arrl.org/files/file/Regulatory/Band%20Chart/Band%20Chart%20-%2011X17%20Color.pdf)", "🇺🇸"]
 }
