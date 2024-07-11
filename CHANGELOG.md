@@ -15,6 +15,7 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 
 ### Added
 - United Kingdom (`uk_hf`, `uk_vhf`) band charts.
+- Bulgarian (`bg`) band chart.
 
 ## [2024.1.2] - 2024-01-06
 ### Changed
