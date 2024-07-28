@@ -13,6 +13,8 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 
 ## [Unreleased]
 
+
+## [2024.7.1] - 2024-07-28
 ### Added
 - United Kingdom (`uk_hf`, `uk_vhf`) band charts.
 - Bulgarian (`bg`) band chart.
@@ -85,7 +87,8 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 - MD5 hashes for all files in the index.
 
 
-[Unreleased]: https://github.com/miaowware/qrm-resources/compare/v2024.1.2...HEAD
+[Unreleased]: https://github.com/miaowware/qrm-resources/compare/v2024.7.1...HEAD
+[2024.7.1]: https://github.com/miaowware/qrm-resources/releases/tag/v2024.7.1
 [2024.1.2]: https://github.com/miaowware/qrm-resources/releases/tag/v2024.1.2
 [2024.1.1]: https://github.com/miaowware/qrm-resources/releases/tag/v2024.1.1
 [2021.12.1]: https://github.com/miaowware/qrm-resources/releases/tag/v2021.12.1
