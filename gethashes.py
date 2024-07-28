@@ -10,7 +10,7 @@ Released under the terms of the BSD 3-Clause license.
 import binascii
 import hashlib
 import json
-from datetime import datetime
+from datetime import datetime, UTC
 from pathlib import Path
 
 
@@ -39,7 +39,7 @@ for resource, versions in index["resources"].items():
             index["resources"][resource][version][file_idx]["hash"] = str(binascii.hexlify(hashed.digest()), "utf-8")
 
 
-index["last_updated"] = datetime.utcnow().isoformat() + "Z"
+index["last_updated"] = datetime.now(UTC).isoformat()
 
 
 print("Writing the hashes...")
