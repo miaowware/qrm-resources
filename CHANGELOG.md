@@ -14,10 +14,16 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 ## [Unreleased]
 
 
+## [2024.7.2] - 2024-07-28
+### Fixed
+- Bulgarian band chart being too big for Discord.
+
+
 ## [2024.7.1] - 2024-07-28
 ### Added
 - United Kingdom (`uk_hf`, `uk_vhf`) band charts.
 - Bulgarian (`bg`) band chart.
+
 
 ## [2024.1.2] - 2024-01-06
 ### Changed
@@ -87,7 +93,8 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 - MD5 hashes for all files in the index.
 
 
-[Unreleased]: https://github.com/miaowware/qrm-resources/compare/v2024.7.1...HEAD
+[Unreleased]: https://github.com/miaowware/qrm-resources/compare/v2024.7.2...HEAD
+[2024.7.2]: https://github.com/miaowware/qrm-resources/releases/tag/v2024.7.2
 [2024.7.1]: https://github.com/miaowware/qrm-resources/releases/tag/v2024.7.1
 [2024.1.2]: https://github.com/miaowware/qrm-resources/releases/tag/v2024.1.2
 [2024.1.1]: https://github.com/miaowware/qrm-resources/releases/tag/v2024.1.1
