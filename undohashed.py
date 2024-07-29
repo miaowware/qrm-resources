@@ -1,4 +1,5 @@
-# This is just a basic sequence of steps to do to undo the hashes
+# Reference implementation of converting the hex-representation
+# hashes into a form that hashlib can use.
 # TODO: Nuke this when implementing in qrm
 
 import binascii
