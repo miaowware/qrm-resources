@@ -1,3 +1,10 @@
+# Deprecation Notice
+
+As of 2026-11-12, this bot is no longer being developed.
+We no longer use Discord like we once did, and as such no longer have interest in continuing to develop and run this bot.
+
+---
+
 # Resources for [qrm](https://github.com/miaowware/qrm2)
 
 ## **This is a work in progress!**
